@@ -39,6 +39,10 @@ This Python Tkinter application implements Prim's and Kruskal's algorithms for f
 3. Select either Prim's or Kruskal's algorithm to find the MST.
 4. View the resulting MST on the graph.
 
+## Screenshot
+![GUI](C:\Users\Faiz\OneDrive\Desktop\mst ss\ui of mst.jpg)
+
+
 ## License
 
 This project is licensed under the MIT License.
