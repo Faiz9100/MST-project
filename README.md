@@ -40,7 +40,7 @@ This Python Tkinter application implements Prim's and Kruskal's algorithms for f
 4. View the resulting MST on the graph.
 
 ## Screenshot
-![GUI](C:\Users\Faiz\OneDrive\Desktop\mst ss\ui of mst.jpg)
+![GUI](ui of mst.jpg)
 
 
 ## License
